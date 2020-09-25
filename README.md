@@ -1,6 +1,6 @@
 ## Charlie Galbraith
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Junior Ruby Developer currently studying at Makers Academy with a background in writing, publishing, and English-language teaching. I bring creativity and attention to detail to every project and I have a mania for self-improvement. For my next role, I'm looking for an environment where I can challenge myself and build on my existing knowledge.
 
 ## Education
 
