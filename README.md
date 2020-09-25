@@ -1,6 +1,15 @@
-## Your Name
+## Charlie Galbraith
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+## Education
+
+#### Makers Academy (September to December 2016)
+
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
 
 ## Projects
 
@@ -9,29 +18,29 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Experience
+#### University of Glasgow (2007 to 2011)
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- English Literature
+- First-class
+- Heavily involved in the theatre society, writing a children's play that went to the Edinburgh Fringe festival in 2011
 
-- Any experience relevent to software development
+#### Any other qualifications
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+Blackford Centre diploma in Copywriting (Distinction)
+Certificate in English Language Teaching to Adults 
+Diploma in English Language Teaching to Adults, Module One (Merit)
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Creative
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Self-motivating
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -40,25 +49,35 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+#### Attention to detail
 
-#### Makers Academy (start_date to end_date)
+- While working as an Editorial Assistant at Dorling Kindersley, one of my principal duties was proofreading copy for spelling and grammatical errors ahead of publication. I was expected to do it quickly and comprehensively. This has perfectly prepared me for picking out and fixing typos and errors in code. 
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+## Experience
 
-#### Your University / College (start_date to end_date)
+**Cambly** (January to July 2020)  
+English Tutor
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Working remotely, adapting to clients' demands
 
-#### Any other qualifications
+**ILA Vietnam** (October 2018 to October 2019)  
+Teacher Coordinator
 
-That in some arguable way make you a better software developer or well-rounded person
+- Any experience relevent to software development
+
+**ILA Vietnam** (February 2016 to September 2018)  
+English Teacher
+
+- Any experience relevent to software development
+
+**Dorling Kindersley** (July 2014 to November 2015)  
+Editorial Assistant
+
+- Any experience relevent to software development
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Writing and drawing
+- Reading (mostly fiction)
+- Running (but not too fast)
+- Arsenal and football (in that order)
