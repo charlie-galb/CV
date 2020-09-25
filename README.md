@@ -24,10 +24,10 @@ Junior Ruby Developer currently studying at Makers Academy with a background in 
 - First-class
 - Heavily involved in the theatre society, writing a children's play that went to the Edinburgh Fringe festival in 2011
 
-#### Any other qualifications
+#### Other qualifications
 
-Blackford Centre diploma in Copywriting (Distinction)
-Certificate in English Language Teaching to Adults 
+Blackford Centre diploma in Copywriting (Distinction)    
+Certificate in English Language Teaching to Adults       
 Diploma in English Language Teaching to Adults, Module One (Merit)
 
 ## Skills
