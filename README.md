@@ -1,6 +1,16 @@
 ## Charlie Galbraith
 
-Junior Ruby Developer currently studying at Makers Academy with a background in writing, publishing, and English-language teaching. I bring creativity and attention to detail to every project and I have a mania for self-improvement. For my next role, I'm looking for an environment where I can challenge myself and build on my existing knowledge.
+A Junior Developer with a background in writing, publishing, and English-language teaching. I bring creativity and attention to detail to every project and I have a mania for self-improvement. 
+
+Recently graduated from Makers Academy, an intensive 16-week bootcamp with a focus on Object-Oriented Principles, Agile methodologies, Test-Driven Development, and other key skills. 
+
+## Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **[Le Chicken: The Poulet](https://github.com/emilyalice2708/le-chicken)**   |  A language-learning RPG (role-playing game) that allows the player to learn new vocabulary in a fun, farm-themed context. | React Native, Jest, Cypress |
+| **[Battleships](https://github.com/charlie-galb/Battleships)** | A version of the classic game played via the command-line | Ruby, RSpec             |
+| **[Bank Tech Test](https://github.com/charlie-galb/bank-tech-test)** | A simple banking application | JavaScript, Jest              |
 
 ## Education
 
@@ -8,15 +18,9 @@ Junior Ruby Developer currently studying at Makers Academy with a background in 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+- Ruby, Rails, Sinatra  
+- JavaScript, React, React Native 
+- RSpec, Jasmine, Capybara, Jest, Cypress  
 
 #### University of Glasgow (2007 to 2011)
 
@@ -32,15 +36,13 @@ Diploma in English Language Teaching to Adults, Module One (Merit)
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### Creative
+#### Creativity  
 
 - Experience
 - Achievements
 - Evidence
 
-#### Self-motivating
+#### Self-motivation  
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
