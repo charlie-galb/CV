@@ -30,9 +30,9 @@ Recently graduated from Makers Academy, an intensive 16-week bootcamp with a foc
 
 #### Other qualifications
 
-Blackford Centre diploma in Copywriting (Distinction)    
-Certificate in English Language Teaching to Adults       
-Diploma in English Language Teaching to Adults, Module One (Merit)
+- Blackford Centre diploma in Copywriting (Distinction)    
+- Certificate in English Language Teaching to Adults       
+- Diploma in English Language Teaching to Adults, Module One (Merit)
 
 ## Skills
 
