@@ -1,8 +1,6 @@
 ## Charlie Galbraith
 
-A Junior Developer with a background in writing, publishing, and English-language teaching. I bring creativity and attention to detail to every project and I have a mania for self-improvement. 
-
-Recently graduated from Makers Academy, an intensive 16-week bootcamp with a focus on Object-Oriented Principles, Agile methodologies, Test-Driven Development, and other key skills. 
+A Junior Developer, recently graduated from Makers Academy, with a background in writing, publishing, and English-language teaching. I bring creativity and attention to detail to every project and I have a mania for self-improvement. 
 
 ## Projects
 
@@ -15,6 +13,8 @@ Recently graduated from Makers Academy, an intensive 16-week bootcamp with a foc
 ## Education
 
 #### Makers Academy (September to December 2016)
+
+An intensive 16-week bootcamp with a focus on the following skills and technologies:
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
