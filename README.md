@@ -24,14 +24,13 @@ An intensive 16-week bootcamp with a focus on the following skills and technolog
 
 #### University of Glasgow (2007 to 2011)
 
-- English Literature
-- First-class
+- MA (Hons) in English Literature, 1st class
 - Heavily involved in the theatre society, writing a children's play that went to the Edinburgh Fringe festival in 2011
 
 #### Other qualifications
 
 - Blackford Centre diploma in Copywriting (Distinction)    
-- Certificate in English Language Teaching to Adults       
+- Certificate in English Language Teaching to Adults (Pass)       
 - Diploma in English Language Teaching to Adults, Module One (Merit)
 
 ## Skills
@@ -46,17 +45,28 @@ While working as an Editorial Assistant at Dorling Kindersley, one of my princip
 
 ## Experience
 
-**Cambly** (January to July 2020)  
-English Tutor
+**Cambly** (December 2019 to January 2021)  
+*English Tutor*   
+- One-to-one English tuition and conversation practice with learners of all ages and abilities
+- Remote, flexible working using an online portal
 
 **ILA Vietnam** (October 2018 to October 2019)  
-Teacher Coordinator
+*Teacher Coordinator*  
+- Administrative support to the Academic Manager, including record-keeping, drafting internal communications and scheduling meetings  
+- Sales presentations, event management and complaint handling  
+- Teacher training and observations, delivery of feedback and disciplinary actions  
 
 **ILA Vietnam** (February 2016 to September 2018)  
-English Teacher
+*English Teacher*
+- Planning and delivery of English language lessons to students of all ages and abilities
+- Adaptation of syllabus and materials to make these engaging and relevant to students
+- Creation of appropriate lesson activities and resources
 
 **Dorling Kindersley** (July 2014 to November 2015)  
-Editorial Assistant and writer 
+*Editorial Assistant and writer* 
+- Research, fact-checking, proofreading and editing  
+- Presentation of ideas and concepts to senior colleagues
+- Responding to customer enquiries and complaints
 
 ## Hobbies
 
