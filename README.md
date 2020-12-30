@@ -38,44 +38,25 @@ An intensive 16-week bootcamp with a focus on the following skills and technolog
 
 #### Creativity  
 
-- Experience
-- Achievements
-- Evidence
-
-#### Self-motivation  
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Having worked as a creative in the television and publishing sectors, I pride myself on my ability to generate ideas and concepts. During my time at Dorling Kindersley, I came up with the story for How Machines Work: Zoo Break, a book that teaches the mechanics of simple machines through a narrative about animals escaping from a zoo. I also served as Ghost Writer on the project. It went on to win the Royal Society Young Person’s Book Prize in 2016
 
 #### Attention to detail
 
-- While working as an Editorial Assistant at Dorling Kindersley, one of my principal duties was proofreading copy for spelling and grammatical errors ahead of publication. I was expected to do it quickly and comprehensively. This has perfectly prepared me for picking out and fixing typos and errors in code. 
+While working as an Editorial Assistant at Dorling Kindersley, one of my principal duties was proofreading copy for spelling and grammatical errors ahead of publication. I was expected to do it quickly and comprehensively. This has perfectly prepared me for picking out and fixing typos and errors in code. 
 
 ## Experience
 
 **Cambly** (January to July 2020)  
 English Tutor
 
-- Working remotely, adapting to clients' demands
-
 **ILA Vietnam** (October 2018 to October 2019)  
 Teacher Coordinator
-
-- Any experience relevent to software development
 
 **ILA Vietnam** (February 2016 to September 2018)  
 English Teacher
 
-- Any experience relevent to software development
-
 **Dorling Kindersley** (July 2014 to November 2015)  
-Editorial Assistant
-
-- Any experience relevent to software development
+Editorial Assistant and writer 
 
 ## Hobbies
 
