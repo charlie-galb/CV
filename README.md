@@ -45,7 +45,7 @@ While working as an Editorial Assistant at Dorling Kindersley, one of my princip
 
 #### Communication  
 
-I am an excellent communicator, both in writing and in speech. I have written treatments for television companies, content and copy for books, and I possess a commercial copywriting qualification, in which I was awarded a distinction. While working as Teacher Coordinator for ILA Vietnam, I had to write and deliver workshops to teachers on a regular basis, as well as serving as Master of Ceremonies for various promotional events at my school. As a teacher of non-native speakers, I learned to value the role of empathy in communication. I had to modulate my speech to the level of my students if I wanted them to understand what I was saying. This skill is easily transferrable to the technology sector, where presentations are often delivered by professional programmers to an audience with little to no technical expertise.
+I am an excellent communicator, both in writing and in speech. I have written treatments for television companies, content and copy for books, and have a commercial copywriting qualification. While working as Teacher Coordinator for ILA Vietnam, I produced and delivered monthly teacher-training workshops, as well as serving as Master of Ceremonies for various promotional events at my school. As a teacher of non-native speakers, I value the role of empathy in communication and am adept at modulating my speech to suit my audience.  
 
 ## Experience
 
