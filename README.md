@@ -47,6 +47,10 @@ While working as an Editorial Assistant at Dorling Kindersley, one of my princip
 
 I am an excellent communicator, both in writing and in speech. I have written treatments for television companies, content and copy for books, and have a commercial copywriting qualification. While working as Teacher Coordinator for ILA Vietnam, I produced and delivered monthly teacher-training workshops, as well as serving as Master of Ceremonies for various promotional events at my school. As a teacher of non-native speakers, I value the role of empathy in communication and am adept at modulating my speech to suit my audience.  
 
+#### Adaptability
+
+Having successfully changed careers once before, I am confident in my ability to adapt to new working environments and leverage skills from my previous roles. Although the difference in work culture between the publishing industry in London and the education sector in South-East Asia was significant, I was able to bed in quickly and thrive. This was down to my willingness to ask questions, to seek out learning opportunities, and to act on feedback rather than covering my ears. 
+
 ## Experience
 
 **Cambly** (December 2019 to January 2021)  
