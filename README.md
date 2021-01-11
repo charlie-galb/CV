@@ -67,7 +67,7 @@ I am an excellent communicator, both in writing and in speech. I have written tr
 - Creation of appropriate lesson activities and resources
 
 **Dorling Kindersley** (July 2014 to November 2015)  
-*Editorial Assistant and writer* 
+*Editorial Assistant and Writer* 
 - Research, fact-checking, proofreading and editing  
 - Presentation of ideas and concepts to senior colleagues
 - Responding to customer enquiries and complaints
