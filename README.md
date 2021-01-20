@@ -37,7 +37,7 @@ An intensive 16-week bootcamp with a focus on the following skills and technolog
 
 #### Creativity  
 
-Having worked as a creative in the television and publishing sectors, I pride myself on my ability to generate ideas and concepts. During my time at Dorling Kindersley, I came up with the story for How Machines Work: Zoo Break, a book that teaches the mechanics of simple machines through a narrative about animals escaping from a zoo. I also served as Ghost Writer on the project. It went on to win the Royal Society Young Person’s Book Prize in 2016
+Having worked as a creative in the television and publishing sectors, I pride myself on my ability to generate ideas and concepts. During my time at Dorling Kindersley, I came up with the story for How Machines Work: Zoo Break, a book that teaches the mechanics of simple machines through a narrative about animals escaping from a zoo. I also served as Ghost Writer on the project. It went on to win the Royal Society Young Person’s Book Prize in 2016.
 
 #### Attention to detail
 
