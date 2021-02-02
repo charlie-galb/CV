@@ -1,6 +1,6 @@
 ## Charlie Galbraith
 
-A Junior Developer, recently graduated from Makers Academy, with a background in writing, publishing, and English-language teaching. I bring creativity and attention to detail to every project and I have a mania for self-improvement. 
+I'm a Junior Developer, recently graduated from Makers Academy, with a background in writing, publishing, and English-language teaching. I was drawn to programming by simple curiosity; I wanted to learn more about how the world works, for so much of my life was lived online. As soon as I started, I was hooked. The cycle of frustration and triumph in programming is more addictive than any puzzle game, and the sense of satisfaction that comes from carrying through a project from conception to deployment is unparalleled.
 
 ## Projects
 
