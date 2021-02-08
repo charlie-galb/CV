@@ -12,7 +12,7 @@ I'm a Junior Developer, recently graduated from Makers Academy, with a backgroun
 
 ## Education
 
-#### Makers Academy (September to December 2016)
+#### Makers Academy (September to December 2020)
 
 An intensive 16-week bootcamp with a focus on the following skills and technologies:
 
