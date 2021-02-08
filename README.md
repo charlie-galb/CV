@@ -35,12 +35,12 @@ An intensive 16-week bootcamp with a focus on the following skills and technolog
 
 ## Experience
 
-**Cambly** (December 2019 to January 2021)  
+**Cambly (December 2019 to January 2021)**  
 *English Tutor*   
 One-to-one English tuition and conversation practice with learners of all ages and abilities
 - Empathy: Tailoring language to students' age and level to ensure comprehension
 
-**ILA Vietnam** (October 2018 to October 2019)  
+**ILA Vietnam (October 2018 to October 2019)**  
 *Teacher Coordinator*  
 A junior management position with a focus on teacher training and development
 - Communication: Delivering sales presentations, teacher training and observations, as well as giving feedback and disciplinary actions
@@ -48,7 +48,7 @@ A junior management position with a focus on teacher training and development
 - **Signature achievement:** Raising the most money in the region (North) as my school's charity
 representative
 
-**ILA Vietnam** (February 2016 to September 2018)  
+**ILA Vietnam (February 2016 to September 2018)**  
 *English Teacher*
 Teaching English to Vietnamese learners of all ages and abilities
 - Adaptability: Bedding in quickly to a brand new role in a very different work culture
@@ -57,7 +57,7 @@ earned a merit, resulting in my promotion to Teacher Coordinator
 - Creativity: Creating materials and activities to make lessons engaging and relevant to students
 - **Signature achievement:** Winning the Certificate of Teaching Excellence in my first 18 months in the role
 
-**Dorling Kindersley** (July 2014 to November 2015)  
+**Dorling Kindersley (July 2014 to November 2015)**  
 *Editorial Assistant and Writer* 
 - Attention to detail: Fact-checking, proofreading, making corrections
 - Creativity: Presentation of ideas and concepts for prospective books to senior colleagues
