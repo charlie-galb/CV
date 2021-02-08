@@ -33,48 +33,37 @@ An intensive 16-week bootcamp with a focus on the following skills and technolog
 - Certificate in English Language Teaching to Adults (Pass)       
 - Diploma in English Language Teaching to Adults, Module One (Merit)
 
-## Skills
-
-#### Creativity  
-
-Having worked as a creative in the television and publishing sectors, I pride myself on my ability to generate ideas and concepts. During my time at Dorling Kindersley, I came up with the story for How Machines Work: Zoo Break, a book that teaches the mechanics of simple machines through a narrative about animals escaping from a zoo. I also served as Ghost Writer on the project. It went on to win the Royal Society Young Person’s Book Prize in 2016.
-
-#### Attention to detail
-
-While working as an Editorial Assistant at Dorling Kindersley, one of my principal duties was proofreading copy for spelling and grammatical errors ahead of publication. I was expected to do it quickly and comprehensively. This has perfectly prepared me for picking out and fixing typos and errors in code. 
-
-#### Communication  
-
-I am an excellent communicator, both in writing and in speech. I have written treatments for television companies, content and copy for books, and have a commercial copywriting qualification. While working as Teacher Coordinator for ILA Vietnam, I produced and delivered monthly teacher-training workshops, as well as serving as Master of Ceremonies for various promotional events at my school. As a teacher of non-native speakers, I value the role of empathy in communication and am adept at modulating my speech to suit my audience.  
-
-#### Adaptability
-
-Having successfully changed careers once before, I am confident in my ability to adapt to new working environments and leverage skills from my previous roles. Although the difference in work culture between the publishing industry in London and the education sector in South-East Asia was significant, I was able to bed in quickly and thrive. This was down to my willingness to ask questions, to seek out learning opportunities, and to act on feedback rather than covering my ears. 
-
 ## Experience
 
 **Cambly** (December 2019 to January 2021)  
 *English Tutor*   
-- One-to-one English tuition and conversation practice with learners of all ages and abilities
-- Remote, flexible working using an online portal
+One-to-one English tuition and conversation practice with learners of all ages and abilities
+- Empathy: Tailoring language to students' age and level to ensure comprehension
 
 **ILA Vietnam** (October 2018 to October 2019)  
 *Teacher Coordinator*  
-- Administrative support to the Academic Manager, including record-keeping, drafting internal communications and scheduling meetings  
-- Sales presentations, event management and complaint handling  
-- Teacher training and observations, delivery of feedback and disciplinary actions  
+A junior management position with a focus on teacher training and development
+- Communication: Delivering sales presentations, teacher training and observations, as well as giving feedback and disciplinary actions
+- Team Player: Organised regular staff badminton tournaments (badminton is BIG in Vietnam)
+- **Signature achievement:** Raising the most money in the region (North) as my school's charity
+representative
 
 **ILA Vietnam** (February 2016 to September 2018)  
 *English Teacher*
-- Planning and delivery of English language lessons to students of all ages and abilities
-- Adaptation of syllabus and materials to make these engaging and relevant to students
-- Creation of appropriate lesson activities and resources
+Teaching English to Vietnamese learners of all ages and abilities
+- Adaptability: Bedding in quickly to a brand new role in a very different work culture
+- Self-motivation: Studying evening and weekends for the Cambridge DELTA Module One exam, in which I
+earned a merit, resulting in my promotion to Teacher Coordinator
+- Creativity: Creating materials and activities to make lessons engaging and relevant to students
+- **Signature achievement:** Winning the Certificate of Teaching Excellence in my first 18 months in the role
 
 **Dorling Kindersley** (July 2014 to November 2015)  
 *Editorial Assistant and Writer* 
-- Research, fact-checking, proofreading and editing  
-- Presentation of ideas and concepts to senior colleagues
-- Responding to customer enquiries and complaints
+- Attention to detail: Fact-checking, proofreading, making corrections
+- Creativity: Presentation of ideas and concepts for prospective books to senior colleagues
+- Communication: Writing copy, including treatments and content for books, to strict deadlines
+- **Signature achievement:** Creating the story and serving as Ghost Writer for How Machines Work: Zoo
+Break, which won the Royal Society Young Person?s Book Prize in 2016
 
 ## Hobbies
 
