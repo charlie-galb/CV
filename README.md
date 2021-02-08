@@ -49,7 +49,7 @@ A junior management position with a focus on teacher training and development
 representative
 
 **ILA Vietnam (February 2016 to September 2018)**  
-*English Teacher*
+*English Teacher*  
 Teaching English to Vietnamese learners of all ages and abilities
 - Adaptability: Bedding in quickly to a brand new role in a very different work culture
 - Self-motivation: Studying evening and weekends for the Cambridge DELTA Module One exam, in which I
