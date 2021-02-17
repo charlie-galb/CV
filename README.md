@@ -9,8 +9,6 @@ I'm a Junior Developer, recently graduated from Makers Academy, with a backgroun
 - **Libraries/frameworks:** React, React Native, Cypress, Jest, Rails, Sinatra, RSpec, Capybara  
 - **Databases:** Postgres, MongoDB  
 
-Currently learning: Java  
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
