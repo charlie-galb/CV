@@ -1,6 +1,15 @@
 ## Charlie Galbraith
 
-I'm a Junior Developer, recently graduated from Makers Academy, with a background in writing, publishing, and English-language teaching. I was drawn to programming by simple curiosity; I wanted to learn more about how the world works, for so much of my life was lived online. As soon as I started, I was hooked. The cycle of frustration and triumph in programming is more addictive than any puzzle game, and the sense of satisfaction that comes from carrying through a project from conception to deployment is unparalleled.
+I'm a Junior Developer, recently graduated from Makers Academy, with a background in writing, publishing, and English-language teaching. I was drawn to programming by simple curiosity; I wanted to learn more about how the world works, for so much of my life was lived online. As soon as I started, I was hooked. The cycle of frustration and triumph in programming is more addictive than any puzzle game, and the sense of satisfaction that comes from carrying through a project from conception to deployment is unparalleled.  
+
+## Technical Skills
+
+- **Methodologies:** OOP, TDD, MVC, DDD, Agile/XP, GitHub flow  
+- **Languages:** Ruby, JavaScript, HTML5, CSS, SQL, GraphQL  
+- **Libraries/frameworks:** React, React Native, Cypress, Jest, Rails, Sinatra, RSpec, Capybara  
+- **Databases:** Postgres, MongoDB  
+
+Currently learning: Java  
 
 ## Projects
 
@@ -15,13 +24,7 @@ I'm a Junior Developer, recently graduated from Makers Academy, with a backgroun
 
 #### Makers Academy (September to December 2020)
 
-An intensive 16-week bootcamp with a focus on the following skills and technologies:
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, Sinatra  
-- JavaScript, React, React Native 
-- RSpec, Jasmine, Capybara, Jest, Cypress  
+An intensive 16-week bootcamp with a focus on Test-Driven Development and Object-Oriented Programming.  
 
 #### University of Glasgow (2007 to 2011)
 
