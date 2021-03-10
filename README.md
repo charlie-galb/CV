@@ -13,10 +13,11 @@ I'm a Junior Developer, recently graduated from Makers Academy, with a backgroun
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **[TapedIt](https://github.com/voice-notes)** | A voice notes extension for slack (work in progress) | React, GraphQL, Apollo Server, Express, Node, MongoDB |
 | **[Le Chicken: The Poulet](https://github.com/emilyalice2708/le-chicken)**   |  A language-learning RPG (role-playing game) that allows the player to learn new vocabulary in a fun, farm-themed context | React Native, Jest, Cypress |
-| **[Battleships](https://github.com/charlie-galb/Battleships)** | A version of the classic game played via the command-line | Ruby, RSpec             |
 | **[Bank Tech Test](https://github.com/charlie-galb/bank-tech-test)** | A simple banking application | JavaScript, Jest              |
-| **[Chitter front-end](https://github.com/charlie-galb/chitter-frontend-react)** | A frontend twitter clone designed to work with a pre-existing backend API | React, Jest              |
+| **[Battleships](https://github.com/charlie-galb/Battleships)** | A version of the classic game played via the command-line | Ruby, RSpec             |
+| **[Chitter front-end](https://github.com/charlie-galb/chitter-frontend-react)** | A frontend twitter clone | React, Jest              |
 
 ## Education
 
